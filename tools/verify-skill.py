@@ -39,7 +39,7 @@ CHECKS = {
     "README.en.md": ["Quick Start", "Evidence Ledger", "Reference Fidelity", "Platforms", "Safety"],
     "agents/openai.yaml": ["display_name:", "short_description:"],
     "references/platform-playbooks.md": ["Amazon", "Shopify", "TikTok Shop", "抖音小店",
-                                         "小红书", "微信小店", "Temu", "Shopee / Lazada"],
+                                         "小红书", "微信小店", "Temu", "Shopee", "Lazada"],
     "references/compliance-rules.md": ["证据状态", "普通食品/饮料", "平台规则的时效性", "来源索引", "source-notes.md", "CN-CITE", "国内主图/详情图文案执行"],
     "references/output-contracts.md": ["证据账本", "Storyboard", "审查/改稿报告", "跨境本地化交付",
                                        "文字渲染方式", "文案规格自检", "国内广告合规自检", "最终文字层", "自审记录", "KV1识别自检", "原始商品名", "命名来源"],

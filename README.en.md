@@ -104,7 +104,7 @@ Default priority: finished work to review → Audit; designer/operator-ready bri
 - **Negative Constraints** — blocks packaging drift, logo changes, wrong specs, text artifacts, anatomy errors, etc.
 - **Dynamic image count** — five is a default, not a hard rule.
 - **KV1 recognition first** — keep a supplied name; if absent, ask for one or obtain permission to name from the image. Use the clear, short established name as the headline. Features are secondary; hide support copy and check that the product is still identifiable. Later feature images need not repeat the name. Where overlays are disallowed or the user requests no added text, establish recognition through the real product. [Original-name examples](examples/README.md#example-7首图先说商品保留原始名字).
-- **Multi-platform playbooks** — China e-commerce + Amazon / Shopify / TikTok Shop / Temu / Shopee / Lazada.
+- **Multi-platform playbooks** — China e-commerce, Amazon, Shopify, TikTok Shop, Temu, Shopee and Lazada have separate guidance; each final Shopee image is capped at 2 MB.
 - **Copy limits and typography** — main image: one headline, up to two support lines and one number/evidence tag; PDP module: one headline and up to three points. Headlines: ≤12 Chinese characters/≤6 English words; main-image support: ≤18 characters/≤10 words; PDP points: ≤18 characters/≤12 words. These are defaults, not platform rules; cut or split rather than shrink type.
 - **One text method per card** — Layout-reserved (default post-production typography) or Model-rendered (only explicitly requested short text), with a copy-spec self-check and character-by-character acceptance/fallback. Keep bottom disclaimers readable and material conditions beside claims.
 - **Six conversion drivers** — visual, pain point, parameters, trust, emotion, and price/bundle/promotion with verified conditions.
@@ -157,7 +157,8 @@ The actual count depends on the platform and product.
 | JD | Shopify / DTC PDP |
 | Pinduoduo | TikTok Shop |
 | Douyin Shop | Temu |
-| Xiaohongshu product images / note covers | Shopee / Lazada |
+| Xiaohongshu product images / note covers | Shopee |
+|  | Lazada |
 | WeChat Channels covers / WeChat Shop | Other PDP scenarios |
 
 Stable visual strategy lives in `references/platform-playbooks.md`. Time-sensitive requirements such as image restrictions, dimensions, category qualifications, or claim policies should be verified against current official platform documentation when needed.

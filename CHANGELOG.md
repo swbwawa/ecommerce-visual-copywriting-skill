@@ -4,6 +4,8 @@
 
 ### Changed
 
+- Allow explicitly seller-provided safety and protection functions to be used as seller-stated claims without defaulting to a test-report requirement; keep certifications, standards, specific test results, measured performance levels and absolute guarantees evidence-backed, and label protective effect visuals as illustrative.
+- Split Shopee and Lazada playbooks. Set a skill delivery cap of 2,000,000 bytes per final Shopee image, with actual-size checks and optimization when needed; clarify this is an internal skill limit, not a verified Shopee platform rule.
 - Stop instructing the model to keep placeholders for unproven claims: Needs-proof items are rewritten neutrally or deleted and listed in a pending-confirmation list outside the copy.
 - Evidence ledger gains source types (documentary proof, supplier claim, visual observation, guesswork); only proof and cross-checked supplier claims enter finished copy, and specification areas hold Verified data only.
 - Add listing/first-screen/cover rules, a five-step decision order, a three-part check for FAQ questions and an explicit list of content the image model must not generate; drop the annotation column from the kickoff questionnaire table.

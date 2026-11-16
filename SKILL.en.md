@@ -90,7 +90,7 @@ Once the name is supplied or image-based naming is authorized, send **one** pref
 | 8 | On-image text | Post-production type, no added text at all, or a short model-rendered headline | Layout-reserved; no model-rendered text |
 | 9 | Reference material | Product/packaging photos, opportunity or competitor analysis, brand guide | Text description only; no invented appearance |
 
-A selling point supplied verbally is logged as "user-stated". Without original documents or test evidence it remains Needs proof; being asked or answered does not upgrade it to Verified.
+User-provided product attributes, specifications and functions—including safety/protection functions—may be logged as seller-provided and used in copy without an external report by default. When the seller explicitly states impact resistance or eye protection, an effect illustration may depict that claim and must be labeled “Illustrative”; never present it as tested, certified, independently verified or standards-compliant, and do not add test values, ratings or absolute guarantees. Legal qualifications, certifications, standards compliance, specific test results and quantified performance values still need supporting materials.
 
 ### Distill reference material into hard constraints
 
@@ -102,22 +102,22 @@ Apart from the preliminary name check, clarification of conflicting product mate
 
 ## Step 1 — Build an evidence ledger
 
-Every factual, numerical, efficacy or qualification claim intended for the final page enters the ledger first.
+Every factual, numerical, efficacy or qualification claim intended for the final page enters the ledger first. Clear user statements for product attributes and functions, including safety/protection functions, may be logged as seller-provided; an external report is not a default prerequisite.
 
 | Claim | Source | Status | Final treatment |
 |---|---|---|---|
-| Directly supported by materials whose product/scope has been checked | Packaging image, specification sheet, specific document | Verified | Preserve meaning; a verbal assertion does not establish testing/certification |
-| Benefit derived from a verified parameter | Same source | Supported | Translate value without expanding scope |
-| Claim requiring a test, certification, rule or approval | Missing evidence | Needs proof | Use neutral wording, or delete the item and list it in a pending-confirmation list outside the copy |
-| Fabricated, misleading or unsupported regulated claim | No lawful support | Disallowed | Exclude from final copy |
+| Directly supported by materials whose product and scope have been checked | Packaging, specification sheet, test/certification or official document | Verified | Preserve meaning and applicable scope |
+| User-provided ordinary product attribute, specification or non-safety feature (for example weight, dimensions, color, anti-slip or anti-fog) | User message or supplier statement | Seller-provided | May appear in drafts and consumer copy; record its source, and do not call it independently verified, tested or certified |
+| Benefit derived from a verified parameter | Corresponding verified parameter | Supported | Translate the value without expanding scope |
+| User-stated safety/protection function or outcome (for example impact resistance or eye protection) | User message or supplier statement | Seller-provided | May be used as stated in consumer copy and in an effect illustration labeled “Illustrative”; do not call it tested, certified, independently verified or standards-compliant, and do not add ratings or absolute guarantees |
+| Statutory qualification/certification/standard compliance, specific test results/performance values, or absolute guarantees requiring quantified support | Documents or verifiable information matching the exact SKU | Needs documentation | Without support, do not present these as tested, certified, standards-compliant or as specific results; list the gap once outside the copy |
+| Fabricated, misleading or legally prohibited claim | No lawful support | Disallowed | Exclude from final copy |
 
-Only Verified and Supported claims may appear as facts. Record a file/page, image ID or official URL, applicable SKU, market, conditions and date when relevant. An example image establishes its appearance, not the truth of its origin, certification, specifications or commercial claims. Gaps go in a pending-confirmation list outside the copy, never in image copy or the copy fields of execution cards.
+Final copy may use Verified, Supported and Seller-provided product information, including clearly stated safety/protection functions; an external test report is not a default prerequisite. Do not describe seller-provided information as tested, certified, standards-compliant or independently verified. Specific test results, certifications and standards-compliance claims still need support. Do not repeatedly report a seller-stated function as “insufficient evidence” merely because no attachment was supplied.
 
-If a claim is verbal and the original material has not been inspected, record that source honestly rather than saying the material was verified. A structure or material alone does not establish performance: "has feet/pads" cannot become "stable placement" or "non-slip" without supporting evidence. Calling this a "neutral scene description" does not remove the evidence requirement.
+An external report is not a default prerequisite for a clearly user-stated protection function. Such claims may appear as seller-provided, and a requested effect visual may be labeled “Illustrative”; do not imply it is an actual test or add test values, ratings, certification marks or absolute guarantees. A single illustrative outcome must not be expanded into universal promises such as “100% protection” or “withstands every impact.” Documents remain necessary for statutory approvals/qualifications/certifications, standards compliance, specific test results or quantified performance, and unconditional guarantees.
 
-Inference is not fact. Sources fall into four types: documentary proof (test reports, certificates, official documents), supplier claims, visual observation and guesswork. Only documentary proof, and supplier claims already cross-checked against parameters or the real item, may enter finished copy; visual observation and guesswork stay in notes outside the copy. When a merchant claim conflicts with the real item, the item prevails and the user is asked. Write material, plating, synthetic and treatment attributes with the full standard name and its qualifiers, not shorter trade slang. Specification areas and parameter tables contain only Verified data.
-
-These restrictions concern factual claims and do not cancel Step 0's authorized image-based naming. A working name combining visible form and category may appear in KV1, with its internal source still labeled “image-based proposed name, not an official original”. It proves no material, manufacturing, performance or qualification claim and does not upgrade observation to documentary proof.
+Record source files/pages, image IDs or official URLs, and applicable SKU, market, conditions and date when relevant. Source types include documentary proof, user/supplier statements, visual observation and inference. Visual observation supports appearance only; do not infer function, material or performance from pads, holes, nose pieces or structure alone. When a user explicitly supplies an ordinary feature, treat it as seller-provided. Resolve conflicts between supplied information and the real item before writing. Preserve full standardized names and qualifiers for materials, plating, composites and treatments; do not shorten or expand them.
 
 ## Step 2 — Select the conversion driver
 
@@ -132,7 +132,7 @@ Choose one primary and at most one secondary driver.
 | Emotional / identity-led | Fragrance, apparel, gifting, pets | Aesthetic, rituals, use scenes, identity |
 | Price / bundle / promotion | Pinduoduo, Temu, Douyin, kits/refills | Included items, unit/bundle price, conditions, dates |
 
-Translate up to three supported purchase reasons for the requested scope with `Feature -> Advantage -> Benefit -> Evidence`; never invent extra reasons to fill three slots. Conversion pressure never justifies unsupported claims.
+Translate up to three supported or seller-provided purchase reasons for the requested scope with `Feature -> Advantage -> Benefit -> Evidence`; never invent extra reasons to fill three slots. Seller-stated protection functions may be used as seller claims; do not embellish them with unsupported testing, ratings or guarantees.
 
 For price-led work verify currency, SKU, quantity, unit/bundle total, eligibility, thresholds, start/end dates, and shipping. If evidence is missing, show known bundle contents only; do not invent reference prices, discounts, lowest-price claims, inventory, timers, or gifts.
 
@@ -153,7 +153,7 @@ Use the real uploaded product/packaging as the source of truth. Decorative impro
 
 ## Step 4 — Plan the storyboard
 
-Do not hard-code five images. Five is a starting point; adapt to platform, user scope and actual information.
+Do not hard-code five images. Five is a starting point; adapt to platform, user scope and actual information. When the user requests separate male and female model scenes, create separate images unless they ask for a collage. Label simulated impact visuals “Illustrative”; do not make them look like test evidence.
 
 | Role | Decision task |
 |---|---|
@@ -194,6 +194,8 @@ For each image/module deliver:
 7. **Evidence notes** for claims, numbers, qualifications or comparisons.
 
 Image prompts go to an AI image model by default; do not ask who receives them. Every prompt must be **self-contained**: do not depend on earlier cards; state supported product structure/materials, lighting, composition, whitespace and forbidden changes. If source product images are needed, identify them and preservation requirements so the prompt and specified images can be handed off together. Do not invent structure or materials to fill fields; repeat the Style Lock in each prompt. State what the model must not generate: on-image text (by default), logos and original packaging text, certification or qualification marks, and specific numbers.
+
+**Shopee image delivery cap (internal Skill requirement):** every final Shopee image file must be **≤2,000,000 bytes (2 MB)**. Check the actual file size after generation; compress or re-export oversized files and recheck visual quality, text legibility and product fidelity.
 
 Ten-line minimal execution card. Teaching inputs: a structure drawing and adjustment instructions are supplied; 20kg capacity is only a verbal assertion without test evidence and is excluded from copy.
 
@@ -243,7 +245,7 @@ Where attention is scarcest, secure three things: a dominant subject, a first to
 
 1. **Selling-point voice**: a KV1 product name establishes identity and must not be deleted for lacking a sales pitch; ask of other marketing sentences "what is this to me, and why is it worth buying?"; cut or rewrite if not. Say why it is worth buying, not how it is constructed.
 2. **Information gain**: apart from the first-image name and necessary specifications/conditions, text prioritizes supported information the image cannot say (motion, occasion, touch, specifications, pairing) and never restates the picture; headline and support lines do not repeat each other.
-3. **Numbers with perception**: pair a number with position, bodily feel or a reference object; a headline is never a bare parameter. For fit content (size, specification, audience) give bands, a conclusion and the consequence, not "choose by your own situation". Use only data present in the materials for feel and thresholds; if absent, omit the claim or list the evidence gap outside the copy rather than invent or repeat the preference questionnaire.
+3. **Numbers with perception**: pair a number with position, bodily feel or a reference object; a headline is never a bare parameter. For fit content (size, specification, audience) give bands, a conclusion and the consequence, not "choose by your own situation". Use only data explicitly supplied by the user or present in materials for feel and thresholds. User-supplied ordinary specifications may be used as seller-provided; tested performance thresholds still require matching evidence. If data is absent, omit the claim or list the gap outside the copy rather than inventing it or repeating the preference questionnaire.
 4. **Consumer language**: jargon appears only in the specification area, and promotional copy uses words the buyer would use ("visual focus" and "information hierarchy" stay out of the image); read aloud and fix anything unnatural; cut a point rather than keep a fragment.
 5. **Question checks**: every FAQ or self-ask question must satisfy all three: the evidence can answer it (if not, do not ask it, and do not patch with a disclaimer); it gives a clear judgment, not "depends on your situation"; and it addresses only concerns buyers of this category really have, never another category's.
 6. **Clarifications in place**: clarifications about sets, pairings and specifications ("single item", "accessories not included") belong in a spec table or readable annotation area, not selling-point space; show what is actually included when showing pairings. Material conditions about included items or price remain beside the relevant picture/claim, never hidden in small print.
@@ -267,8 +269,9 @@ Hard blockers first:
 
 - Invented or untraceable qualifications, tests, certification, sales, reviews, rankings, patents or numbers.
 - Product identity conflicts with source materials.
-- Needs proof written as fact.
+- High-risk claims requiring documentation or disallowed claims written as fact, or seller-provided information described as independently verified.
 - Unverified current platform rules stated as certain requirements.
+- Final Shopee image files over 2,000,000 bytes (2 MB) without a compliant exported copy.
 - Unsupported medical/health guarantees or claims outside approved scope.
 - Mainland China advertising with prohibited claims, missing statutory ad approval, or required citation sources/conditions hidden in internal notes or unreadable text.
 - Final copy still contains placeholders or internal notes ("to be added", "to confirm", "(not provided)"), or clarifications sitting in selling-point space.
@@ -282,11 +285,11 @@ Score each dimension 0–100 independently; **80 is the passing line**. Scores a
 
 | Dimension | Required conditions (all met for ≥80) | Bonus items (80–100) |
 |---|---|---|
-| Evidence & compliance | ① every factual, numerical or qualification claim traces to the ledger ② Needs-proof content is not written as fact ③ China ad compliance check passed (when applicable) ④ no placeholders or internal notes in final copy ⑤ process, material and performance follow the materials' wording and were checked against the real item | sources cite page or image number; risky lines have substitutes |
-| Conversion logic | ① each image has its own decision task ② top reasons are clear (no padding to three) ③ naming is resolved in Step 0; permitted KV1 headlines name the product before secondary benefits, no-text images have a recognition basis, and later images need not repeat the name ④ copy passes the six-point quality self-check | support lines add what the picture cannot say; fit content gives bands and a conclusion |
+| Evidence & compliance | ① every factual, numerical or qualification claim traces to the ledger ② seller-provided ordinary claims are sourced and not described as independently verified ③ certification, standards-compliance and specific test-result claims have SKU-matched support; seller-provided functions are not described as independently verified ④ China ad compliance check passed (when applicable) and no placeholders remain ⑤ no functions are inferred from images and there is no conflict with the real item | sources cite page or image number; risky lines have substitutes |
+| Conversion logic | ① each image has its own decision task ② up to three purchase reasons are clear (seller-provided safety functions may be used as sourced; do not pad, and do not add unsupported test or certification claims) ③ naming is resolved in Step 0; permitted KV1 headlines name the product before secondary benefits, no-text images have a recognition basis, and later images need not repeat the name ④ copy passes the six-point quality self-check | support lines add what the picture cannot say; fit content gives bands and a conclusion |
 | Visual hierarchy | ① a clear first focus ② text within the copy-specification limits ③ reasonable subject proportion ④ the brief specifies mobile preview/type checks; inspect existing renders and mark unrendered images pending | reading order and emphasis of numbers/evidence are explained |
 | Consistency | ① Style Lock followed; no drift in style, palette or light ② product identity matches references ③ type and copy tone match across the set | every prompt repeats the Style Lock |
-| Executability | ① no guessing about essential elements ② every prompt is self-contained (structure, materials, lighting, composition, whitespace, forbidden changes) ③ every card states its text rendering method and copy-spec self-check ④ no "TBD" or "same as above" | targeted Negative Prompts; text acceptance and fallback stated |
+| Executability | ① no guessing about essential elements ② every prompt is self-contained (structure, materials, lighting, composition, whitespace, forbidden changes) ③ every card states its text rendering method and copy-spec self-check ④ no "TBD" or "same as above" ⑤ each final Shopee image is ≤2,000,000 bytes and checked | targeted Negative Prompts; text acceptance and fallback stated |
 
 Check word limits, rendering responsibilities, disclaimer placement and mobile preview. The 80-point line is this skill's internal delivery threshold and must be anchored to the required conditions above, not an unanchored "80/100" feeling. If the user explicitly wants a numerical score to display, follow section 7 of `references/output-contracts.md`.
 
